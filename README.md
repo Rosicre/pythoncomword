@@ -1,2 +1,1 @@
-# pythoncomword
- Integração de Python com Word
+# Integração de Python com Word para Criação de Contratos Automáticos, aqui também podemos inserir uma imagem  ou uma tabela dentro do documento, conseguimos verificar todos os estilos específicos para adptar no contexto, e salva um Novo Contrato Atualizado.
